@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePickerDialog</string>
+    <string name="dob_string">Your Date of Birth is :</string>
+    <string name="dob_select_button">Select a date</string>
+</resources>
